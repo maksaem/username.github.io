@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>50 причин, почему я люблю Вику</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #ffe4e1;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background-color: #ff69b4;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        ul {
+            background-color: pink;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        ul li {
+            margin: 10px 0;
+            font-size: 15px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 10px;
+        }
+        .back-button {
+            background-color: #ff69b4;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>50 причин, почему я люблю Вику</h1>
+</header>
+
+<ul>
+    <li>Её улыбка освещает мой день.</li>
+    <li>Она всегда поддерживает меня в трудные моменты.</li>
+    <li>Её доброта не знает границ.</li>
+    <li>Она прекрасна во всех смыслах.</li>
+    <li>Она всегда знает, как меня развеселить.</li>
+    <li>Мы понимаем друг друга с полуслова.</li>
+    <li>Она вдохновляет меня становиться лучше.</li>
+    <li>Её смех — самое приятное, что я слышал.</li>
+    <li>Она делает каждый день особенным.</li>
+    <li>Она всегда заботится обо мне.</li>
+     <li>Она умеет находить радость в мелочах</li>
+      <li>Её кулинарные навыки всегда радуют меня.</li>
+       <li>Она поддерживает меня в моих увлечениях.</li> 
+        <li>Она всегда знает, как сделать меня счастливым</li>
+         <li>С ней я чувствую себя уверенно.</li>
+          <li>Её креативность вдохновляет на новые идеи.</li>
+           <li>Мы можем говорить о чем угодно и никогда не скучаем.</li>
+            <li>Она всегда делает сюрпризы, которые я люблю.</li>
+             <li>Её мудрость помогает мне принимать правильные решения.</li>
+              <li>Она умеет слушать и слышать.</li> 
+               <li>Она всегда открыта для новых приключений.</li>
+                <li>Её смех заразителен, и я не могу не смеяться вместе с ней.</li>
+                 <li>Она всегда находит время для меня, даже если занята.</li>
+                  <li>Она делает мою жизнь ярче и интереснее.</li>
+                   <li>Мы можем сидеть вместе в тишине и при этом чувствовать себя комфортно.</li>
+                    <li>Она придаёт мне силы, когда я чувствую себя уставшим.</li>
+                     <li>Её поддержка вдохновляет меня на достижения.</li>
+                      <li>Она умеет смеяться над собой, и это здорово.</li>
+                       <li>Она всегда может предложить хорошие идеи для досуга.</li>
+                        <li>Её доброта затрагивает сердца других.</li>
+                         <li>Она открыта для обсуждения любых тем и проблем.</li>
+                          <li>Она знает, как сделать уютным любое место.</li> 
+                           <li>С ней я могу быть самим собой.</li>
+                            <li>Её страсть к жизни вдохновляет меня.</li>
+                             <li>Она умеет делать комплименты, которые поднимают настроение.</li>
+                              <li>Она интересуется моими мыслями и чувствами.</li>
+                               <li>Она всегда поддерживает меня в трудные времена.</li>
+                                <li>Её улыбка делает моё сердце теплее.</li>
+                                 <li>Она умеет развеселить меня даже в плохое настроение.</li>
+                                  <li>Она – мой лучший друг и партнёр в жизни.</li>
+                                   <li>Она всегда стремится развиваться и учиться новому.</li>
+                                    <li>Она умеет делать маленькие моменты незабываемыми.</li>
+                                     <li>С ней я чувствую, что могу справиться с любыми трудностями.</li>
+                                      <li>Она обожает наших питомцев (если есть).</li>
+                                       <li>Она умеет создавать атмосферу праздника в любое время.</li>
+                                        <li>Она заботится о своём здоровье и вдохновляет меня делать то же самое.</li>
+                                         <li>Она знает, как важно проводить время вместе.</li>
+                                          <li>Она делает мне неожиданные подарки без повода.</li>
+                                           <li>Она искренне радуется моим успехам.</li>
+                                           <li>Она делает меня лучшим человеком каждый день</li>
+
+</ul>
+
+<footer>
+    <a href="index.html" class="back-button">Назад к главной странице</a>
+
+
+    <a href="cute-dogs.html" class="back-button">Посмотреть милых собачек</a>
+
+</footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Милые собачки</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #e0f7fa;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            background-color: #ff69b4;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .dog-gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .dog-gallery img {
+            width: 200px; /* Ширина картинки */
+            height: auto; /* Автоматическая высота для соблюдения пропорций */
+            margin: 10px; /* Отступы между картинками */
+            border-radius: 10px; /* Закругление углов */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Тень для картинок */
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .back-button {
+            background-color: #ff69b4;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Милые собачки</h1>
+</header>
+
+<div class="dog-gallery">
+    <img src="dog1.jpg" alt="Милая собачка 1">
+    <img src="dog2.jpg" alt="Милая собачка 2">
+    <img src="dog3.jpg" alt="Милая собачка 3">
+    <img src="dog4.jpg" alt="Милая собачка 4">
+    <img src="dog5.jpg" alt="Милая собачка 5">
+    <img src="dog6.jpg" alt="Милая собачка 6">
+    <img src="dog7.jpg" alt="Милая собачка 7">
+    <img src="dog8.jpg" alt="Милая собачка 8">
+    <img src="dog9.jpg" alt="Милая собачка 9">
+    <img src="dog10.jpg" alt="Милая собачка 10">
+     <img src="dog11.jpg" alt="Милая собачка 11">
+      <img src="dog12.jpg" alt="Милая собачка 12">
+      <img src="dog13.jpg" alt="Милая собачка 13">
+      <img src="dog14.jpg" alt="Милая собачка 14">
+    <!-- Добавь дополнительные картинки с собачками -->
+</div>
+
+<footer>
+    <a href="50-reasons.html" class="back-button">Назад к 50 причинам</a>
+</footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Я люблю своего бублика</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #ffccff;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff69b4;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        nav {
+            text-align: center;
+            margin-top: 20px;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+            color: #ff69b4;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        section img {
+            max-width: 300px;
+            height: auto;
+            border-radius: 50%;
+            margin: 15px 0;
+        }
+        footer {
+            background-color: #ff69b4;
+            color: white;
+            text-align: center;
+            padding: 0.1px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .love-button {
+            background-color: #ff69b4;
+            color: white;
+            padding: 5px 1px;
+            border: none;
+            border-radius: 3px;
+            font-size: 16px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Я люблю своего бублика</h1>
+</header>
+
+<nav>
+    <a href="#why">Почему я люблю Вику</a>
+    <a href="#memories">Наши любимые моменты</a>
+    <a href="#future">Будущее с моим бубликом</a>
+</nav>
+
+<section id="why">
+    <h2>Почему я люблю Вику</h2>
+    <p>Моя Вика — это мой маленький бублик, который всегда согревает моё сердце. Она особенная, и с каждым днём я люблю её всё больше и больше. Её улыбка делает мой день светлее, а её поддержка — сильнее.</p>
+    <img src="vika.jpg.jpg" alt="Вика, мой бублик" width="300">
+</section>
+
+<section id="memories">
+    <h2>Наши любимые моменты</h2>
+    <p>Мы разделили множество прекрасных моментов вместе: прогулки по парку, смех до слёз, уютные вечера. Всё это — наше сокровище.</p>
+    <img src="memories.jpg" alt="Наша история любви">
+</section>
+
+<section id="future">
+    <h2>Будущее с моим бубликом</h2>
+    <p>Вместе мы можем достичь всего. Я верю, что наши мечты станут реальностью, и впереди нас ждёт множество радостных дней. Моя любовь к Вике будет расти с каждым днём.</p>
+    <img src="future.jpg" alt="Светлое будущее с Викой">
+</section>
+
+<footer>
+    <p>&copy; 2024 Любящий бублик. Все права защищены.</p>
+    <a href="50-reasons.html" class="love-button">50 причин, почему я люблю Вику</a>
+</footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Добро пожаловать, Виктория Бублик!</title>
+    <style>
+        body {
+            display: flex; /* Используем flexbox */
+            flex-direction: column; /* Располагаем элементы по вертикали */
+            justify-content: center; /* Центрируем элементы по вертикали */
+            align-items: center; /* Центрируем элементы по горизонтали */
+            height: 100vh; /* Задаем высоту на весь экран */
+            background-color: #ffe4e1;
+            margin: 0;
+        }
+        h1 {
+            color: #ff69b4; /* Цвет заголовка */
+            font-size: 36px; /* Увеличиваем размер шрифта заголовка */
+        }
+        p {
+            font-size: 20px; /* Увеличиваем размер шрифта абзаца */
+        }
+        .button-container {
+            display: flex; /* Используем flexbox для кнопок */
+            gap: 10px; /* Отступы между кнопками */
+        }
+        .choice-button {
+            background-color: #ff69b4; /* Цвет кнопки */
+            color: white; /* Цвет текста на кнопке */
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 20px; /* Увеличиваем размер шрифта кнопок */
+            cursor: pointer;
+            text-decoration: none; /* Убираем подчеркивание */
+        }
+    </style>
+</head>
+<body>
+
+<h1>Если ты Виктория Бублик, тебе сюда!</h1>
+<p><strong>Выберите, хотите ли вы перейти на сайт:</strong></p>
+
+<div class="button-container">
+    <a href="index.html" class="choice-button">Да</a>
+    <a href="index.html" class="choice-button">Да</a>
+</div>
+
+</body>
+</html>
