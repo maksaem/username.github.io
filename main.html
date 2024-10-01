@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Добро пожаловать, Виктория Бублик!</title>
+    <style>
+        body {
+            display: flex; /* Используем flexbox */
+            flex-direction: column; /* Располагаем элементы по вертикали */
+            justify-content: center; /* Центрируем элементы по вертикали */
+            align-items: center; /* Центрируем элементы по горизонтали */
+            height: 100vh; /* Задаем высоту на весь экран */
+            background-color: #ffe4e1;
+            margin: 0;
+        }
+        h1 {
+            color: #ff69b4; /* Цвет заголовка */
+            font-size: 36px; /* Увеличиваем размер шрифта заголовка */
+        }
+        p {
+            font-size: 20px; /* Увеличиваем размер шрифта абзаца */
+        }
+        .button-container {
+            display: flex; /* Используем flexbox для кнопок */
+            gap: 10px; /* Отступы между кнопками */
+        }
+        .choice-button {
+            background-color: #ff69b4; /* Цвет кнопки */
+            color: white; /* Цвет текста на кнопке */
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 20px; /* Увеличиваем размер шрифта кнопок */
+            cursor: pointer;
+            text-decoration: none; /* Убираем подчеркивание */
+        }
+    </style>
+</head>
+<body>
+
+<h1>Если ты Виктория Бублик, тебе сюда!</h1>
+<p><strong>Выберите, хотите ли вы перейти на сайт:</strong></p>
+
+<div class="button-container">
+    <a href="index.html" class="choice-button">Да</a>
+    <a href="index.html" class="choice-button">Да</a>
+</div>
+
+</body>
+</html>
